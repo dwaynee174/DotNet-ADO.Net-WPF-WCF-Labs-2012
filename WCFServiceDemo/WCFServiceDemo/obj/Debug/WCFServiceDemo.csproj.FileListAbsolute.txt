@@ -1,0 +1,5 @@
+c:\msnet\WCFServiceDemo\WCFServiceDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\msnet\WCFServiceDemo\WCFServiceDemo\bin\WCFServiceDemo.dll
+c:\msnet\WCFServiceDemo\WCFServiceDemo\bin\WCFServiceDemo.pdb
+c:\msnet\WCFServiceDemo\WCFServiceDemo\obj\Debug\WCFServiceDemo.dll
+c:\msnet\WCFServiceDemo\WCFServiceDemo\obj\Debug\WCFServiceDemo.pdb

@@ -1,0 +1,5 @@
+c:\msnet\SimpleMathCalculator\SimpleMathCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\SimpleMathCalculator\SimpleMathCalculator\bin\Debug\SimpleMathCalculator.exe
+c:\msnet\SimpleMathCalculator\SimpleMathCalculator\bin\Debug\SimpleMathCalculator.pdb
+c:\msnet\SimpleMathCalculator\SimpleMathCalculator\obj\x86\Debug\SimpleMathCalculator.exe
+c:\msnet\SimpleMathCalculator\SimpleMathCalculator\obj\x86\Debug\SimpleMathCalculator.pdb

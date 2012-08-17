@@ -1,0 +1,7 @@
+c:\msnet\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+c:\msnet\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+c:\msnet\DelegateDemo\DelegateDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\DelegateDemo\DelegateDemo\obj\x86\Debug\DelegateDemo.exe
+c:\msnet\DelegateDemo\DelegateDemo\obj\x86\Debug\DelegateDemo.pdb
+c:\msnet\DelegateDemo\DelegateDemo\bin\Debug\ProductLibrary.dll
+c:\msnet\DelegateDemo\DelegateDemo\bin\Debug\ProductLibrary.pdb

@@ -1,0 +1,5 @@
+c:\msnet\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+c:\msnet\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+c:\msnet\CollectionsDemo\CollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.exe
+c:\msnet\CollectionsDemo\CollectionsDemo\obj\x86\Debug\CollectionsDemo.pdb

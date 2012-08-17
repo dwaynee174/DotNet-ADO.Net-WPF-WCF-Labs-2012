@@ -1,0 +1,45 @@
+﻿<Activity mc:Ignorable="sap" x:Class="WFDemo.Workflow1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:m="clr-namespace:MathLibrary;assembly=MathLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="clr-namespace:Microsoft.VisualBasic;assembly=System" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:s1="clr-namespace:System;assembly=System" xmlns:s2="clr-namespace:System;assembly=System.Xml" xmlns:s3="clr-namespace:System;assembly=System.Core" xmlns:s4="clr-namespace:System;assembly=System.ServiceModel" xmlns:sa="clr-namespace:System.Activities;assembly=System.Activities" xmlns:sad="clr-namespace:System.Activities.Debugger;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System" xmlns:scg1="clr-namespace:System.Collections.Generic;assembly=System.ServiceModel" xmlns:scg2="clr-namespace:System.Collections.Generic;assembly=System.Core" xmlns:scg3="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:sl="clr-namespace:System.Linq;assembly=System.Core" xmlns:st="clr-namespace:System.Text;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="res" Type="OutArgument(x:Int32)" />
+  </x:Members>
+  <sap:VirtualizedContainerService.HintSize>526,827</sap:VirtualizedContainerService.HintSize>
+  <mva:VisualBasic.Settings>Assembly references and imported namespaces for internal implementation</mva:VisualBasic.Settings>
+  <Sequence sad:XamlDebuggerXmlReader.FileName="c:\msnet\WFDemo\WFDemo\Workflow1.xaml" sap:VirtualizedContainerService.HintSize="486,787">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Int32" Name="num" />
+      <Variable x:TypeArguments="m:MathClass" Default="[New MathClass()]" Name="objMath" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg3:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg3:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <WriteLine sap:VirtualizedContainerService.HintSize="464,59" Text="Enter a number = " />
+    <Assign sap:VirtualizedContainerService.HintSize="464,57">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:Int32">[num]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:Int32">[Convert.ToInt32(Console.ReadLine())]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <WriteLine sap:VirtualizedContainerService.HintSize="464,59" Text="[&quot;You have entered = &quot; + Convert.ToString(num)]" />
+    <If Condition="[num Mod 2 = 0]" sap:VirtualizedContainerService.HintSize="464,201">
+      <If.Then>
+        <WriteLine sap:VirtualizedContainerService.HintSize="219,100" Text="Number is even" />
+      </If.Then>
+      <If.Else>
+        <WriteLine sap:VirtualizedContainerService.HintSize="220,100" Text="Number is odd" />
+      </If.Else>
+    </If>
+    <InvokeMethod sap:VirtualizedContainerService.HintSize="464,127" MethodName="ComputeSquare">
+      <InvokeMethod.Result>
+        <OutArgument x:TypeArguments="x:Int32">[res]</OutArgument>
+      </InvokeMethod.Result>
+      <InvokeMethod.TargetObject>
+        <InArgument x:TypeArguments="m:MathClass">[objMath]</InArgument>
+      </InvokeMethod.TargetObject>
+      <InArgument x:TypeArguments="x:Int32">[num]</InArgument>
+    </InvokeMethod>
+  </Sequence>
+</Activity>

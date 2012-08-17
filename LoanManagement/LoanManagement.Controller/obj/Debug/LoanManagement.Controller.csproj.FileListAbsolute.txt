@@ -1,0 +1,9 @@
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.Controller.dll
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.Controller.pdb
+C:\msnet\LoanManagement\LoanManagement.Controller\obj\Debug\ResolveAssemblyReference.cache
+C:\msnet\LoanManagement\LoanManagement.Controller\obj\Debug\LoanManagement.Controller.dll
+C:\msnet\LoanManagement\LoanManagement.Controller\obj\Debug\LoanManagement.Controller.pdb
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.DAL.dll
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.Entity.dll
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.DAL.pdb
+C:\msnet\LoanManagement\LoanManagement.Controller\bin\Debug\LoanManagement.Entity.pdb

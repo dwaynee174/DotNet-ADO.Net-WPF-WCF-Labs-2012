@@ -1,0 +1,5 @@
+C:\msnet\LoanManagement\LoanManagement.Entity\bin\Debug\LoanManagement.Entity.dll
+C:\msnet\LoanManagement\LoanManagement.Entity\bin\Debug\LoanManagement.Entity.pdb
+C:\msnet\LoanManagement\LoanManagement.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\msnet\LoanManagement\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.dll
+C:\msnet\LoanManagement\LoanManagement.Entity\obj\Debug\LoanManagement.Entity.pdb

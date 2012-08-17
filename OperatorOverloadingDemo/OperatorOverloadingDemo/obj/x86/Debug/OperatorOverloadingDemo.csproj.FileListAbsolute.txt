@@ -1,0 +1,5 @@
+c:\msnet\OperatorOverloadingDemo\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.exe
+c:\msnet\OperatorOverloadingDemo\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.pdb
+c:\msnet\OperatorOverloadingDemo\OperatorOverloadingDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\OperatorOverloadingDemo\OperatorOverloadingDemo\obj\x86\Debug\OperatorOverloadingDemo.exe
+c:\msnet\OperatorOverloadingDemo\OperatorOverloadingDemo\obj\x86\Debug\OperatorOverloadingDemo.pdb

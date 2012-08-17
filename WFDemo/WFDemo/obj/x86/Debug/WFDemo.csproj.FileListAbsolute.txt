@@ -1,0 +1,16 @@
+c:\msnet\WFDemo\WFDemo\bin\Debug\WFDemo.exe.config
+c:\msnet\WFDemo\WFDemo\bin\Debug\WFDemo.exe
+c:\msnet\WFDemo\WFDemo\bin\Debug\WFDemo.pdb
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\Workflow1.g.xaml
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\_WFDemo.g.cs
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\Workflow1.g.cs
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\WFDemo.csproj.XamlGeneratedCodeFileListAbsolute.txt
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\WFDemo.csproj.XamlGeneratedXamlFileListAbsolute.txt
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\InProcessTempFiles\_WFDemo.g.cs
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\WFDemo.exe
+c:\msnet\WFDemo\WFDemo\obj\x86\Debug\WFDemo.pdb
+c:\msnet\WFDemo\WFDemo\bin\Debug\MathLibrary.dll
+c:\msnet\WFDemo\WFDemo\bin\Debug\MathLibrary.pdb

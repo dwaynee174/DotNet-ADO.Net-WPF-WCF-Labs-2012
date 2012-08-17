@@ -1,0 +1,5 @@
+C:\msnet\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.exe
+C:\msnet\SerializationDemo\SerializationDemo\bin\Debug\SerializationDemo.pdb
+C:\msnet\SerializationDemo\SerializationDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\msnet\SerializationDemo\SerializationDemo\obj\x86\Debug\SerializationDemo.exe
+C:\msnet\SerializationDemo\SerializationDemo\obj\x86\Debug\SerializationDemo.pdb

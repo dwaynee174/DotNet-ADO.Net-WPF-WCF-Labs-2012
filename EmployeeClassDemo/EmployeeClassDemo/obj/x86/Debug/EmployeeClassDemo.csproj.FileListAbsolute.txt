@@ -1,0 +1,5 @@
+c:\msnet\EmployeeClassDemo\EmployeeClassDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\EmployeeClassDemo\EmployeeClassDemo\bin\Debug\EmployeeClassDemo.exe
+c:\msnet\EmployeeClassDemo\EmployeeClassDemo\bin\Debug\EmployeeClassDemo.pdb
+c:\msnet\EmployeeClassDemo\EmployeeClassDemo\obj\x86\Debug\EmployeeClassDemo.exe
+c:\msnet\EmployeeClassDemo\EmployeeClassDemo\obj\x86\Debug\EmployeeClassDemo.pdb

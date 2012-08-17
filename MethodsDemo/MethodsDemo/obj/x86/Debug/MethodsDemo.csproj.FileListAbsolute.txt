@@ -1,0 +1,5 @@
+c:\msnet\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.exe
+c:\msnet\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.pdb
+c:\msnet\MethodsDemo\MethodsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\MethodsDemo\MethodsDemo\obj\x86\Debug\MethodsDemo.exe
+c:\msnet\MethodsDemo\MethodsDemo\obj\x86\Debug\MethodsDemo.pdb

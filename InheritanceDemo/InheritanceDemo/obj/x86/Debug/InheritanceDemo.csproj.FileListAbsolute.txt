@@ -1,0 +1,5 @@
+c:\msnet\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+c:\msnet\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+c:\msnet\InheritanceDemo\InheritanceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\InheritanceDemo\InheritanceDemo\obj\x86\Debug\InheritanceDemo.exe
+c:\msnet\InheritanceDemo\InheritanceDemo\obj\x86\Debug\InheritanceDemo.pdb

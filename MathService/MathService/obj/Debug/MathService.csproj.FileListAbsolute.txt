@@ -1,0 +1,5 @@
+c:\msnet\MathService\MathService\obj\Debug\ResolveAssemblyReference.cache
+c:\msnet\MathService\MathService\bin\MathService.dll
+c:\msnet\MathService\MathService\bin\MathService.pdb
+c:\msnet\MathService\MathService\obj\Debug\MathService.dll
+c:\msnet\MathService\MathService\obj\Debug\MathService.pdb

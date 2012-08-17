@@ -1,0 +1,5 @@
+c:\msnet\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.exe
+c:\msnet\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.pdb
+c:\msnet\IndexersDemo\IndexersDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\IndexersDemo\IndexersDemo\obj\x86\Debug\IndexersDemo.exe
+c:\msnet\IndexersDemo\IndexersDemo\obj\x86\Debug\IndexersDemo.pdb

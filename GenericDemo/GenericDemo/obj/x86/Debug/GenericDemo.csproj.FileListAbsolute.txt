@@ -1,0 +1,5 @@
+c:\msnet\GenericDemo\GenericDemo\bin\Debug\GenericDemo.exe
+c:\msnet\GenericDemo\GenericDemo\bin\Debug\GenericDemo.pdb
+c:\msnet\GenericDemo\GenericDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\msnet\GenericDemo\GenericDemo\obj\x86\Debug\GenericDemo.exe
+c:\msnet\GenericDemo\GenericDemo\obj\x86\Debug\GenericDemo.pdb

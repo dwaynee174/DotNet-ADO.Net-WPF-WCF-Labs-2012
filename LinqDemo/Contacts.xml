@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact ContactNo="9845563363">
+    <Name>Kiran Patange</Name>
+    <Address>
+      <City>Pune</City>
+      <State>Maharashtra</State>
+    </Address>
+  </Contact>
+  <Contact ContactNo="989542303">
+    <Name>Amarjeet Singh</Name>
+    <Address>
+      <City>Bangalore</City>
+      <State>Karnataka</State>
+    </Address>
+  </Contact>
+  <Contact ContactNo="782554662">
+    <Name>Shafique Shaikh</Name>
+    <Address>
+      <City>Mumbai</City>
+      <State>Maharashtra</State>
+    </Address>
+  </Contact>
+  <Contact ContactNo="97732324123">
+    <Name>Dhwani Patel</Name>
+    <Address>
+      <City>Mumbai</City>
+      <State>Maharashtra</State>
+    </Address>
+  </Contact>
+</Contacts>

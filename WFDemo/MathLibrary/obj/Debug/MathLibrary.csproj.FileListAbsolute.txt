@@ -1,0 +1,5 @@
+c:\msnet\WFDemo\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\msnet\WFDemo\MathLibrary\bin\Debug\MathLibrary.dll
+c:\msnet\WFDemo\MathLibrary\bin\Debug\MathLibrary.pdb
+c:\msnet\WFDemo\MathLibrary\obj\Debug\MathLibrary.dll
+c:\msnet\WFDemo\MathLibrary\obj\Debug\MathLibrary.pdb

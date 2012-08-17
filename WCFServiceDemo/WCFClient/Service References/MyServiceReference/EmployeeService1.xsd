@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:3042/EmployeeService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WCFServiceDemo" />
+  <xs:element name="SearchEmpByID">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="empno" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SearchEmpByIDResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WCFServiceDemo" minOccurs="0" name="SearchEmpByIDResult" nillable="true" type="q1:Employee" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
